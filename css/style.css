@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
 body {
     margin: 0;
     text-align: center;
@@ -14,3 +16,7 @@ h2 {
     width: 15%;
     border-radius: 100%;
 }
+.skills{
+    margin: auto;
+}
+
