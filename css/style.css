@@ -16,6 +16,9 @@ h2 {
     width: 15%;
     border-radius: 100%;
 }
+.projects {
+    text-align: left;
+}
 .skills{
     margin: auto;
 }
