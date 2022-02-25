@@ -5,33 +5,39 @@ body {
     text-align: center;
     color: #40514E;
 }
+
 h1 {
     margin-bottom: 30px;
     color: #66BFBF;
 }
+
 h2 {
     color: #66BFBF;
 }
+
 .my_img {
     width: 15%;
     border-radius: 100%;
 }
+
 .projects {
     text-align: left;
 }
-.skills{
+
+.skills {
     margin: auto;
 }
-.skill-row{
+
+.skill-row {
     width: 50%;
     margin: 50px auto;
     text-align: left;
     line-height: 2;
 }
+
 .web {
     width: 25%;
     float: left;
     margin-right: 30px;
     height: 25%;
 }
-
