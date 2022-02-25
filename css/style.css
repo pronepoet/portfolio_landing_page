@@ -4,7 +4,7 @@ body {
     margin: 0;
     text-align: center;
     color: #40514E;
-    background-color:beige
+    background-color: beige
 }
 
 h1 {
@@ -16,14 +16,17 @@ h1 {
 h2 {
     color: #66BFBF;
 }
+
 h3 {
-    font-size:19px;
-    color: #66BFBF;  
+    font-size: 19px;
+    color: #66BFBF;
 }
+
 .about {
     font-size: 50px;
     margin-bottom: 50px;
 }
+
 .education {
     text-align: left;
 }
@@ -54,6 +57,7 @@ h3 {
     margin-right: 30px;
     height: 25%;
 }
+
 .web1 {
     width: 25%;
     float: right;
