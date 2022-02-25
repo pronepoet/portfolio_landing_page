@@ -5,6 +5,10 @@ body {
 }
 h1 {
     margin-bottom: 30px;
+    color: #66BFBF;
+}
+h2 {
+    color: #66BFBF;
 }
 .my_img {
     width: 15%;
