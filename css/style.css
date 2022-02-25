@@ -19,4 +19,16 @@ h2 {
 .skills{
     margin: auto;
 }
+.skill-row{
+    width: 50%;
+    margin: 50px auto;
+    text-align: left;
+    line-height: 2;
+}
+.web {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+    height: 25%;
+}
 
