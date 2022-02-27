@@ -12,5 +12,6 @@ N/A
 ## Known Bugs
 none
 ##### Link to Live Site : 
-[here](https://github.com/pronepoet/portfolio_landing_page)
+[here](https://pronepoet.github.io/portfolio_landing_page/)
 ### License
+MIT Licence
