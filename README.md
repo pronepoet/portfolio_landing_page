@@ -1,4 +1,4 @@
-# Akan-Names
+# Portfolio Website
 This a is the portfolio website. It tells more about me and my work experience and hobbies and interests.The portfolio includes links to some of the projects I have worked on during the week at Moringa School.
 ![screenshot](images/screen1.png)
 ## Technologies Used
