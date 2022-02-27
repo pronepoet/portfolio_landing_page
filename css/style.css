@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Creepster&family=Fredericka+the+Great&family=Montserrat&display=swap');
+
 body {
     margin: 0;
     text-align: center;
@@ -21,25 +22,30 @@ h3 {
 
     color: #66BFBF;
 }
-hr{
+
+hr {
     margin: 70px 0;
 }
+
 .description {
     font-family: 'Fredericka the Great', cursive;
     font-size: 1.5rem;
 }
+
 span {
     font-family: 'Creepster', cursive;
-    color:yellowgreen
+    color: yellowgreen
 }
+
 address {
     margin-bottom: 0;
 }
-footer{
-    margin-top:100px;
-    background-color:#66BFBF;
-    width:100%;
-   
+
+footer {
+    margin-top: 100px;
+    background-color: #66BFBF;
+    width: 100%;
+
 }
 
 .about {
