@@ -61,15 +61,15 @@ footer {
 .my_img {
     width: 15%;
     border-radius: 100%;
+    float: left;
 }
 
 .projects {
-    text-align: left;
-    line-height: 3;
+ margin:auto;
 }
 
 .skills {
-    margin: auto;
+    text-align:start;
 }
 
 .skill-row {
@@ -91,4 +91,25 @@ footer {
     float: right;
     margin-left: 30px;
     height: 25%;
+}
+.icons {
+    margin-bottom: 0px;
+}
+footer li{
+    list-style: none;
+display: inline-flex;
+padding-right:50px;
+}
+footer li :hover{
+    color:#EECD59;
+    
+}
+.footer_msg{
+    color:black;
+}
+.work{
+    margin-top: 20px;
+}
+.card{
+    margin:auto;
 }
