@@ -106,10 +106,12 @@ footer li :hover{
 }
 .footer_msg{
     color:black;
+    
 }
 .work{
     margin-top: 20px;
 }
 .card{
-    margin:auto;
+    margin:10px auto;
+    
 }
